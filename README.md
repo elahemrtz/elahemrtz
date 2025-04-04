@@ -1,4 +1,6 @@
-## Hi there 👋
+Currently studying computer engineering.
+
+Interested in web developement.
 
 <!--
 **elahemrtz/elahemrtz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
